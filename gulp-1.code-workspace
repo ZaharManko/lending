@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../movie-project"
+        }
+    ],
+    "settings": {
+        "git.ignoreLimitWarning": true,
+        "liveServer.settings.multiRootWorkspaceName": "movie-project"
+    }
+}
